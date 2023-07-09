@@ -1,0 +1,87 @@
+{
+	"character":[
+		{
+			"cashA": -5,
+			"cashB": 0,
+			"opinionA": 0,
+			"opinionB": 5,
+			"divorceA": 0,
+			"divorceB": 0,
+			"msg": "Heroman threw my car at a villian and missed, I want compensation"
+		},
+		{
+			"cashA": -3,
+			"cashB": 2,
+			"opinionA": -2,
+			"opinionB": 0,
+			"divorceA": 5,
+			"divorceB": -10,
+			"msg": "Please take a day off and come home, you havent seen the kids in weeks"
+		},
+		{
+			"cashA": 15,
+			"cashB": 15,
+			"opinionA": -10,
+			"opinionB": -10,
+			"divorceA": 0,
+			"divorceB": 0,
+			"msg": "I took a new sponsor from the asbestos mine, I'm rich"
+		},
+		{
+			"cashA": -3,
+			"cashB": 2,
+			"opinionA": 2,
+			"opinionB": -2,
+			"divorceA": 0,
+			"divorceB": 0,
+			"msg": "HeroMan beat me up after I littered "
+		},
+		{
+			"cashA": -5,
+			"cashB": 0,
+			"opinionA": -3,
+			"opinionB": 3,
+			"divorceA": -2,
+			"divorceB": 1,
+			"msg": "Heroman foiled my plan to blow up the moon"
+		},
+		{
+			"cashA": 3,
+			"cashB": -3,
+			"opinionA": -2,
+			"opinionB": 2,
+			"divorceA": 0,
+			"divorceB": -2,
+			"msg": "Heroman action figures are a massive choking hazard, they need to be recalled"
+		},
+		{
+			"cashA": 0,
+			"cashB": -7,
+			"opinionA": -2,
+			"opinionB": 5,
+			"divorceA": 0,
+			"divorceB": 1,
+			"msg": "Heroman stops train, causes mass whiplash"
+		},
+		{
+			"cashA": 0,
+			"cashB": -3,
+			"opinionA": 0,
+			"opinionB": 2,
+			"divorceA": -2,
+			"divorceB": 5,
+			"msg": "It's your sons birthday on thursday, can ask Heroman over for a meet and great"
+		},
+		{
+			"cashA": 2,
+			"cashB": -3,
+			"opinionA": 0,
+			"opinionB": -2,
+			"divorceA": -10,
+			"divorceB": 5,
+			"msg": "Please take a day off and come home, you havent seen the kids in weeks"
+		}
+
+	
+	]
+}
